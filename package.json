@@ -1,0 +1,25 @@
+{
+  "name": "FirstSite",
+  "version": "1.0.0",
+  "description": "===================== # mySite DEMO: [Пробный сайт](https://yauheni5.github.io/MyWebSite/)",
+  "main": "index.html",
+  "dependencies": {
+    "pkg": "^3.0.0-beta.25"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "build": "^0.1.4"
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Yauheni5/)"
+  },
+  "author": "KING",
+  "license": "ISC"
+}

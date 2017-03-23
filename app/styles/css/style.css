@@ -1,0 +1,42 @@
+body {
+  margin: 0px;
+  paddding: 0px;
+  font-style: courier;
+}
+body .wrapper {
+  width: 100%;
+  height: 100%;
+}
+body .wrapper header {
+  height: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #dea539;
+}
+body .wrapper header .logo-img {
+  width: 60px;
+  height: 60px;
+}
+body .wrapper header .slogan {
+  flex-basis: 70%;
+}
+body .wrapper header .time-work {
+  flex-basis: 12%;
+}
+body .wrapper header .contact-phone-header {
+  flex-basis: 10%;
+  text-transform: uppercase;
+}
+body .wrapper header .input-search-main {
+  width: 60%;
+}
+body .wrapper footer {
+  height: 130px;
+  display: flex;
+  background-color: #dea539;
+}
+body .wrapper footer .logo-img {
+  width: 60px;
+}
